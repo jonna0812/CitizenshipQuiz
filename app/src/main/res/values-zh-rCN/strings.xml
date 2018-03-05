@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">移民积分评估</string>
+    <string name="def_message">结果在这里显示。</string>
+    <string name="enter_name">请输入您的姓名</string>
+    <string name="enter_age">请输入您的年龄</string>
+    <string name="edu_level">请选择您最高的受教育水平？</string>
+    <string name="edu_level_a">高中毕业</string>
+    <string name="edu_level_b">大学本科毕业</string>
+    <string name="edu_level_c">研究生毕业</string>
+    <string name="edu_level_d">博士毕业</string>
+    <string name="eng_level">您的英语水平如何？</string>
+    <string name="eng_lv_a">会一点点</string>
+    <string name="eng_lv_b">基本会话</string>
+    <string name="eng_lv_c">商务水平</string>
+    <string name="eng_lv_d">母语或相当水平</string>
+    <string name="job_offer">您有工作吗？</string>
+    <string name="yes">有</string>
+    <string name="no">无</string>
+    <string name="income_level">您的收入水平？</string>
+    <string name="inc_lv_a">4万-8万美元</string>
+    <string name="inc_lv_b">8万-12万美元</string>
+    <string name="inc_lv_c">12万-25万美元</string>
+    <string name="inc_lv_d">25万美元以上</string>
+    <string name="submit">提交</string>
+    <string name="reset">重置</string>
+    <string name="phase1">姓名：</string>
+    <string name="phase2">您的移民积分为</string>
+    <string name="phase3">恭喜您！您可以成为美国公民！</string>
+    <string name="phase4">您的积分不够，请再接再厉！</string>
+    <string name="phase5">对不起，美国不欢迎您。</string>
+</resources>

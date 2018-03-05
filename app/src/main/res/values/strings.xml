@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Citizenship Quiz</string>
+    <string name="def_message">Result will be displayed here.</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_age">Enter your Age</string>
+
+    <!-- quesiton1 -->
+    <string name="edu_level">What is your highest education level?</string>
+    <string name="edu_level_a">High School</string>
+    <string name="edu_level_b">Collage Degree</string>
+    <string name="edu_level_c">Master Degree</string>
+    <string name="edu_level_d">Doctor Degree</string>
+
+    <!-- question 2 -->
+    <string name="eng_level">What is your English proficiency level?</string>
+    <string name="eng_lv_a">Somewhat</string>
+    <string name="eng_lv_b">Basic Conversation</string>
+    <string name="eng_lv_c">Business Proficiency</string>
+    <string name="eng_lv_d">Native Speaker/Equivilent</string>
+
+    <!-- question 3 -->
+    <string name="job_offer">Do you have a job offer?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- question 4 -->
+    <string name="income_level">What is your income level?</string>
+    <string name="inc_lv_a">$40,000 - $80,000</string>
+    <string name="inc_lv_b">$80,000 - $120,000</string>
+    <string name="inc_lv_c">$120,000 - $250,000</string>
+    <string name="inc_lv_d">More than $250,000</string>
+
+    <string name="submit">Sumit</string>
+    <string name="reset">Reset</string>
+
+    <!-- java part -->
+    <string name="phase1">Name: </string>
+    <string name="phase2">Your score is </string>
+    <string name="phase3">Congratulations! You can become US citizen.</string>
+    <string name="phase4">You need work a little bit harder for your citizenship.</string>
+    <string name="phase5">Sorry, you are not allowed to come to the United States.</string>
+
+</resources>
